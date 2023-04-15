@@ -5,7 +5,7 @@ Create Git repositories via: git init (Git commands require a repository in a pr
 Key Commands:
 1. git init - Initialize a Git respository (only required once per project)
 2. git add <file(s)> - Stage code changes (for the next commit)
-3. git status commit -m "..." - Creat a commit for the staged changes (with a message)
+3. git commit -m "..." - Creat a commit for the staged changes (with a message)
 4. git  status - Get the current repository status (e.g., which changes are staged)
 5. get log - Output a chronologically ordered list of commits
 6. git checkout <id = master> - Temporarily move back to commit <id>
