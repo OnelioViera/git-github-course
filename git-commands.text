@@ -10,3 +10,6 @@ Steps taken to add a file.
 5. git checkout "plus commit id"
 6. git checkout master
 7. git revert <id> (Undo Commits)
+----------------------------------------
+*How to update modified files*
+Enter git add --all at the command line prompt in your local project directory to add the files or changes to the repository. Enter git status to see the changes to be committed. Enter git commit -m '<commit_message>' at the command line to commit new files/changes to the local repository.
