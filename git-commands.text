@@ -20,6 +20,10 @@ Key Commands:
 7. git revert <id> (Undo Commits)
 
 8. git reset --hard <id> - Undo commit(s) up to commit <id> by deleting commits
+
+9. git branch <name> - Crat a new branch
+
+10. git merge <name> - 
 ----------------------------------------
 *How to update modified files*
 Enter git add --all at the command line prompt in your local project directory to add the files or changes to the repository. Enter git status to see the changes to be committed. Enter git commit -m '<commit_message>' at the command line to commit new files/changes to the local repository.
