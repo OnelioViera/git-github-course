@@ -1,5 +1,5 @@
-const fs = require('fs');
+// const fs = require('fs');
 
-fs.writeFolderSync('git-commands.txt', 'Git Commands');
+// fs.writeFolderSync('git-commands.txt', 'Git Commands');
 
 // console.log('Hello World!');
