@@ -7,13 +7,21 @@ body {
   text-align: center;
   background-color: #322e2d;
   color: #f6f0ee;
+  margin-left: 4rem;
+  margin-right: 4rem;
 }
 
 #logo {
   width: 7rem;
   height: 7rem;
   object-fit: contain;
-  margin-top: 2rem;
+  margin-top: 5rem;
+}
+
+.get-hero, img {
+  margin-top: 6rem;
+  max-width: 100%;
+  height: auto;
 }
 
 h1 {
